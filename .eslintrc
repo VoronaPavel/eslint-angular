@@ -1,0 +1,10 @@
+{
+  "extends": ["angular", "eslint:recommended"],
+  "globals": {
+      "angular": true,
+      "_": true,
+      "$": true,
+      "module": true,
+      "require": true
+  }
+}
